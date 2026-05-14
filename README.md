@@ -96,4 +96,4 @@ This project was built to strengthen frontend development skills by implementing
 
 ## 🙌 Author
 
-Developed by **Sejal Pawar**
+Developed by **Jivitesh kale**
