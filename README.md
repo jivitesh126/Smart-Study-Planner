@@ -6,8 +6,6 @@ It helps users plan, organize, and track their daily study tasks with a calendar
 ---
 
 ## 🚀 Live Demo
-
-👉 Add your deployed link here
 https://smartsutudyplanner.netlify.app/
 ---
 
